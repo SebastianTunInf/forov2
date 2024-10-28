@@ -125,11 +125,11 @@ h3 {
   display: block;
   transition: all 0.4s ease-in-out;
   overflow: hidden;
-  border-radius: 16px;
+  border-radius: 0;
 }
 
 .articles article a {
-  display: inline-flex;
+  display: block;
   color: var(--primary);
   text-decoration: none;
 }
